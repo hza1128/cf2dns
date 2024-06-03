@@ -1,0 +1,6 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+130.61.203.115,80,80,FALSE,NRT,Asia Pacific,Hong Kong,20.06,47.02
+138.3.220.4,80,80,FALSE,NRT,Asia Pacific,Hong Kong,20.03,42.87
+141.147.162.204,80,80,FALSE,NRT,Asia Pacific,Hong Kong,20.02,41.83
+158.101.152.221,80,80,FALSE,NRT,Asia Pacific,Hong Kong,20.07,40.84
+131.186.61.45,80,80,FALSE,NRT,Asia Pacific,Hong Kong,20.1,40.17
